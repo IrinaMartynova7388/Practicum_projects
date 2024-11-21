@@ -8,7 +8,7 @@
 
 ## Навыки и инструменты:
 
-
+pandas, numpy, tableau, SQL
 
 
 
